@@ -1,7 +1,7 @@
 ## Hi there👋
 I'm currently working on entry data analytics.
 I am refreshing my skills in Python, R, and other related languages/tools.
-I am going to start by doing a practic sports data analysis program.
+I am going to start by doing a practice sports data analysis program.
 
 <!--
 **davidsprojects-42/davidsprojects-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
